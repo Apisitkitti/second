@@ -1,0 +1,15 @@
+E:\MDT211\Homework\second\obj\Debug\net6.0\second.csproj.AssemblyReference.cache
+E:\MDT211\Homework\second\obj\Debug\net6.0\second.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\Homework\second\obj\Debug\net6.0\second.AssemblyInfoInputs.cache
+E:\MDT211\Homework\second\obj\Debug\net6.0\second.AssemblyInfo.cs
+E:\MDT211\Homework\second\obj\Debug\net6.0\second.csproj.CoreCompileInputs.cache
+E:\MDT211\Homework\second\bin\Debug\net6.0\second.exe
+E:\MDT211\Homework\second\bin\Debug\net6.0\second.deps.json
+E:\MDT211\Homework\second\bin\Debug\net6.0\second.runtimeconfig.json
+E:\MDT211\Homework\second\bin\Debug\net6.0\second.dll
+E:\MDT211\Homework\second\bin\Debug\net6.0\second.pdb
+E:\MDT211\Homework\second\obj\Debug\net6.0\second.dll
+E:\MDT211\Homework\second\obj\Debug\net6.0\refint\second.dll
+E:\MDT211\Homework\second\obj\Debug\net6.0\second.pdb
+E:\MDT211\Homework\second\obj\Debug\net6.0\second.genruntimeconfig.cache
+E:\MDT211\Homework\second\obj\Debug\net6.0\ref\second.dll
